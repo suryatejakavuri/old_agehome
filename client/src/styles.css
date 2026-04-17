@@ -1,0 +1,6 @@
+body{ background:#f7f8fa; }
+.navbar-brand{ font-weight:700; }
+.card{ border-radius:16px; }
+.accessible-text{ font-size:1.1rem; line-height:1.7; }
+.high-contrast{ color:#000; background:#fff; }
+.large-btn{ padding:12px 18px; font-size:1.1rem; }
